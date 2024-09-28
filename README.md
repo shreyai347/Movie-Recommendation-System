@@ -1,4 +1,3 @@
-Sure! Here’s a more polished README file for your movie recommender system:
 
 ---
 
