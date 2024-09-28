@@ -4,8 +4,9 @@
 # Movie Recommender System
 
 ![Screenshot 2024-09-28 072838](https://github.com/user-attachments/assets/00ba7468-2929-4e7a-a5e7-d5b343bad556)
-![Screenshot 2024-09-28 073053](https://github.com/user-attachments/assets/9eccfa3d-fdfc-40d2-8529-606c4d43c032)
 ![Screenshot (80)](https://github.com/user-attachments/assets/712143a4-f1d0-44db-a165-9141d19da56f)
+![Screenshot 2024-09-28 073053](https://github.com/user-attachments/assets/9eccfa3d-fdfc-40d2-8529-606c4d43c032)
+
 
 ## Overview
 
